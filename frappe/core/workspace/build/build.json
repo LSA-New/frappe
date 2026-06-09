@@ -323,18 +323,18 @@
    "type": "Link"
   }
  ],
- "modified": "2024-01-24 12:27:44.769958",
+ "modified": "2026-01-15 17:52:11.671463",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Build",
  "number_cards": [],
  "owner": "Administrator",
- "parent_page": "",
+ "parent_page": "360 Setting",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
  "roles": [],
- "sequence_id": 27.0,
+ "sequence_id": 41.0,
  "shortcuts": [
   {
    "color": "Grey",
